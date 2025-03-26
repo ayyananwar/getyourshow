@@ -7,7 +7,7 @@ const movies = [
     id: 1,
     title: "The Godfather",
     genre: "Crime | Drama",
-    image: "/images/movie1.jpg",
+    image: "../../public/images/movie1.jpg",
     rating: 8.5,
     duration: "2h 55m",
     price: 250
